@@ -1,6 +1,6 @@
 # pythonqueries
-For my Python queries
-Objective
+>For my Python queries
+>Objective
 You’re an analyst for an existing company, Instacart, an online grocery store that operates
 through an app. Instacart already has very good sales, but they want to uncover more
 information about their sales patterns. Your task is to perform an initial data and exploratory
